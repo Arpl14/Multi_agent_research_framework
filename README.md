@@ -110,6 +110,7 @@ Captured streaming events:
 
 ### **7️⃣ Build a Multi-Agent Research Pipeline**
 Three core agents:
+- **QuestionAgent** → creates sub questions for each topic 
 - **ResearchAgent** → web research + note-taking  
 - **WriteAgent** → markdown report generation  
 - **ReviewAgent** → review/approve/request changes  
