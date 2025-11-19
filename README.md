@@ -76,6 +76,9 @@ Project by Arpita Lonakadi
 
 ## 📘 Project Run Through (Step-by-Step)
 
+<img width="1347" height="875" alt="Screenshot 2025-11-19 at 10 13 55 AM" src="https://github.com/user-attachments/assets/8e0231c6-edeb-4734-a1ff-45e0cc42a9cf" />
+
+
 ### **1️⃣ Initialize LLM**
 - Load OpenAI API key from Colab.
 - Instantiate GPT-4.1-mini using LlamaIndex’s OpenAI wrapper.
@@ -143,10 +146,6 @@ Fully automated research flow:
 3. Aggregate all answers  
 4. Generate polished report (ReportAgent)  
 5. Optional reflection loop (ReviewAgent)
-
-
-<img width="1347" height="875" alt="Screenshot 2025-11-19 at 10 13 55 AM" src="https://github.com/user-attachments/assets/8e0231c6-edeb-4734-a1ff-45e0cc42a9cf" />
-
 
 ---
 
