@@ -1,5 +1,6 @@
 # 🧠 Deep Research Multi-Agent System using LlamaIndex  
 *A fully agentic, multi-agent research engine powered by LlamaIndex Workflows, OpenAI LLMs, Tavily Search, and event-driven orchestration.*
+- Arpita Lonakadi
 
 ---
 
